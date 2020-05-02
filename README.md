@@ -1,4 +1,6 @@
 # Learnit
+### ALTA DE PRODUCTOS:
+* Tenemos que descomentar el parrafo app.get('/seeddb'  - del archivo app.js y despues tecleamos en el navegador: http://localhost:3000/seeddb
 ![image](shop.png)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.3.
 
